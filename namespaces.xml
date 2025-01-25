@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<aptech xmlns:a="https://abc.com" xmlns:b="https://123.com" xmlns="https://100.com">
+
+<!-- class 9 students -->
+<student>
+
+<name>Ali</name>
+<age>16</age>
+<city>Karachi</city>
+</student>
+
+
+<!-- class 10 students -->
+
+<student>
+<name>Ali</name>
+<age>18</age>
+<city>Karachi</city>
+</student>
+
+</aptech>

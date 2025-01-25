@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+
+<student id="1">
+
+<name>Ali</name>
+<email>ali@gmail.com</email>
+<password>12345</password>
+
+</student>
+
+<student id="2">
+
+<name>Areeba</name>
+<email>areeba@gmail.com</email>
+<password>678910</password>
+
+</student>
+
+<student id="3">
+
+<name>Hafsa</name>
+<email>hafsa@gmail.com</email>
+<password>121212</password>
+
+</student>
+
+
+
+<student id="4">
+
+<name>Zain</name>
+<email>zain@gmail.com</email>
+<password>33666</password>
+
+</student>
+
+<student id="5">
+
+<name>Ayesha</name>
+<email>ayesha@gmail.com</email>
+<password>am123@</password>
+
+</student>
+
+
+
+<student id="6">
+
+<name>Hadia</name>
+<email>hadia@gmail.com</email>
+<password>15281#</password>
+
+</student>
+
+
+
+<student id="7">
+
+<name>Abhishek</name>
+<email>abhishek@gmail.com</email>
+<password>816518</password>
+
+</student>
+
+
+
+<student id="8">
+
+<name>Munawar</name>
+<email>munawar@gmail.com</email>
+<password>2894457</password>
+
+</student>
+
+
+<student id="9">
+
+<name>Karan</name>
+<email>karan@gmail.com</email>
+<password>123@#</password>
+
+</student>
+
+
+
+<student id="10">
+
+<name>Zubaida</name>
+<email>Zubaida@gmail.com</email>
+<password>66551#</password>
+
+</student>
+
+</root>
