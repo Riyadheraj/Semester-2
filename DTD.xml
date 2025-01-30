@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE student [
+    <!ELEMENT student (cpism_students*)>
+     <!ELEMENT cpism_students (name, age, address)>
+      <!ELEMENT name (#PCDATA)>
+       <!ELEMENT age (#PCDATA)>
+       <!ELEMENT address (#PCDATA)>
+
+    <!ATTLIST cpism_students id CDATA #REQUIRED>
+
+
+    <!ENTITY a "Aptech">
+]>
+
+<student>
+
+<cpism_students id="1"> 
+
+<name>&a;</name>
+<age>16</age>
+<address>Karachi</address>
+
+</cpism_students>
+
+
+<cpism_students id="2"> 
+
+<name>Ali</name>
+<age>16</age>
+<address>Karachi</address>
+
+</cpism_students>
+
+
+</student>
