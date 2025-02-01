@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!DOCTYPE student [
-    <!ELEMENT student (cpism_students*)>
-     <!ELEMENT cpism_students (name, age, address)>
-      <!ELEMENT name (#PCDATA)>
-       <!ELEMENT age (#PCDATA)>
-       <!ELEMENT address (#PCDATA)>
+<!DOCTYPE student SYSTEM "data.dtd" [
+    
 
     <!ATTLIST cpism_students id CDATA #REQUIRED>
 
 
+
+
     <!ENTITY a "Aptech">
+
 ]>
 
 <student>
@@ -31,6 +30,8 @@
 <address>Karachi</address>
 
 </cpism_students>
+
+
 
 
 </student>
