@@ -1,10 +1,19 @@
 [
     {
-        "ID": 1, "Name": "Laptop", "Price": 75000, "Description": "A high-performance laptop with a fast processor, ample storage, and a sleek design, perfect for work and entertainment." },
-    { "ID": 2, "Name": "Smart Phone", "Price": 50000, "Description": "A modern smartphone with a high-resolution display, fast processor, long battery life, and an advanced camera system." },
-    {"ID": 3, "Name": "Headphones", "Price": 3500, "Description": " Noise-canceling wireless headphones with deep bass."},
-    
-    {"ID": 4, "Name": "SmartWatch", "Price": 5000, "Description": "A fitness-tracking smartwatch with multiple health features."}
-    
+        "ID" : 1,
+        "Name" : "Laptop",
+        "Price" : 75000,
+        "Description" : "A high-performance laptop with a fast processor, ample storage, and a sleek design, perfect for work and entertainment."
+    },
+
+    {
+        "ID" : 2,
+        "Name" : "Smart Phone",
+        "Price" : 50000,
+        "Description" : "A modern smartphone with a high-resolution display, fast processor, long battery life, and an advanced camera system."
+    }
+
+
+
 
 ]
