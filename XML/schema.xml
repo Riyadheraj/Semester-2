@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="practice.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+
+<student>
+
+<name>Ali</name>
+<age>15</age>
+
+</student>

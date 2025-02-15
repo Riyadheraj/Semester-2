@@ -1,0 +1,5 @@
+ <!ELEMENT student (cpism_students*)>
+     <!ELEMENT cpism_students (name, age, address)>
+      <!ELEMENT name (#PCDATA)>
+       <!ELEMENT age (#PCDATA)>
+       <!ELEMENT address (#PCDATA)>
