@@ -9,7 +9,8 @@ $(document).ready(function(){
         if(!nameregex.test(name)){
             $(this).next("span").show().text("Please enter only alphabet (3-15 characters)").css("color","red");
             $(this).css("border", "2px solid red");
-        } else {
+        }
+         else {
             $(this).next("span").hide();
             $(this).css("border", "2px solid green");
         }
@@ -37,7 +38,7 @@ $(document).ready(function(){
         let passregex = /^(?=.*[A-Z])(?=.*[a-z])(?=.*\d)(?=.*[@#$%^&*])[Aa-zZ\d\@#$%^&*!]{8}$/
 
         if(!passregex.test(pass)){
-            $(this).next("span").show().text("Please enter a valid email").css("color", "red");
+            $(this).next("span").show().text("Please enter a correct password").css("color", "red");
             $(this).css("border", "2px solid red");
         } else {
             $(this).next("span").hide();
