@@ -25,14 +25,50 @@
         "Name" : "SmartWatch",
         "Price" : 5000,
         "Description" : "A fitness-tracking smartwatch with multiple health features."
+    },
+
+    {
+        "ID" : 5,
+        "Name" : "Hair Dryer",
+        "Price" : 11000,
+        "Description" : "Lightweight and fast-drying hairdryer with multiple heat settings."
+    },
+
+    
+    {
+        "ID" : 6,
+        "Name" : "Leather Handbag",
+        "Price" : 20000,
+        "Description" : "Elegant, high-quality leather tote bag with spacious compartments."
+    },
+    
+    {
+        "ID" : 7,
+        "Name" : "Blush Palette",
+        "Price" : 4850,
+        "Description" : " A versatile blush palette with multiple shades for a natural, rosy glow."
+    },
+
+    {
+        "ID" : 8,
+        "Name" : "Highlighters <br> (Sets of 6)",
+        "Price" : 1200,
+        "Description" : "Vibrant pastel and neon highlighters with a dual-tip design for precise highlighting."
+    },
+    
+    {
+        "ID" : 9,
+        "Name" : "Sticky Notes",
+        "Price" : 800,
+        "Description" : " Colorful sticky notes for reminders, quick notes, or organizing tasks."
+    },
+
+    {
+        "ID" : 10,
+        "Name" : "Sofa Set",
+        "Price" : 120000,
+        "Description" : "Stylish and comfortable sofa set with plush cushions for a cozy living space."
     }
-
-    
-
-
-    
-
-
 
 
 ]

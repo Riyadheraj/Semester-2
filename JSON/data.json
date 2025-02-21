@@ -1,39 +1,81 @@
 [
     {
         "id" : 1,
-        "p_name" : "watch",
-        "p_price" : "$100",
-        "p_descript" : "Water Proof",
+        "p_name" : "FlexiFit Watch",
+        "p_price" : "$150",
+        "p_descript" : " Sleek, stainless steel wristwatch with scratch-resistant sapphire glass.",
         "p_image" : "https://currenwatches.com.pk/cdn/shop/products/S7d2e9b2df5eb48be959dad1f4655b5e5S_1445x.jpg?v=1735886343"
 
     },
 
     {
         "id" : 2,
-        "p_name" : "watch",
+        "p_name" : "LuxeGlow Foundation",
         "p_price" : "$100",
-        "p_descript" : "Water Proof",
-        "p_image" : "https://currenwatches.com.pk/cdn/shop/products/S7d2e9b2df5eb48be959dad1f4655b5e5S_1445x.jpg?v=1735886343"
+        "p_descript" : "Lightweight, matte finish foundation with SPF 30 for flawless skin.",
+
+        "p_image" : "https://static.wixstatic.com/media/9bdc5d_318405bed15445889ac1d7d21756565f~mv2.jpg/v1/fill/w_968,h_968,al_c,q_85/9bdc5d_318405bed15445889ac1d7d21756565f~mv2.jpg"
 
     },
 
 
     {
         "id" : 3,
-        "p_name" : "watch",
-        "p_price" : "$100",
-        "p_descript" : "Water Proof",
-        "p_image" : "https://currenwatches.com.pk/cdn/shop/products/S7d2e9b2df5eb48be959dad1f4655b5e5S_1445x.jpg?v=1735886343"
+        "p_name" : "SwiftCharge Pro",
+        "p_price" : "$35",
+        "p_descript" : "Fast-charging power bank with dual USB ports and Type-C support.",
+        "p_image" : "https://curiosharbor.com/cdn/shop/files/92fb58d7-acd9-49af-8c38-df1989511e3f.jpg?v=1709298560&width=1445"
 
     },
 
     {
         "id" : 4,
-        "p_name" : "watch",
+        "p_name" : "AirBuds Pro",
+        "p_price" : "$50",
+        "p_descript" : "Noise-canceling Bluetooth earbuds with crystal-clear sound and long battery life.",
+        "p_image" : "https://www.apple.com/newsroom/images/product/airpods/standard/Apple-AirPods-Pro-2nd-gen-hero-220907.jpg.news_app_ed.jpg"
+
+    },
+
+    
+    {
+        "id" : 5,
+        "p_name" : "Huda Beauty Matte Lipstick",
+        "p_price" : "$12.50",
+        "p_descript" : " A set of 5 matte lipsticks in bold and nude shades, long-lasting and smooth on the lips.",
+        "p_image" : "https://www.makeupgallery.pk/cdn/shop/files/Buy_Huda_Beauty_Liquid_Matte_Lipsticks_5ml.jpg?v=1731068246"
+
+    },
+
+    
+    {
+        "id" : 6,
+        "p_name" : "Michael Kors Leather Handbag",
+        "p_price" : "$80",
+        "p_descript" : "A trendy and spacious leather handbag with gold accents ideals for daily use.",
+        "p_image" : "https://di2ponv0v5otw.cloudfront.net/posts/2024/01/30/65b94b7c253a8cb11be1f01a/m_65b94b82253a8cb11be1f04f.jpg"
+
+    },
+
+    
+    {
+        "id" : 7,
+        "p_name" : "Dior Sauvage Perfume",
         "p_price" : "$100",
-        "p_descript" : "Water Proof",
-        "p_image" : "https://currenwatches.com.pk/cdn/shop/products/S7d2e9b2df5eb48be959dad1f4655b5e5S_1445x.jpg?v=1735886343"
+        "p_descript" : "A luxurious and long-lasting fragrance with a mix of fresh citrus, spicy pepper, and warm woody notes.",
+        "p_image" : "https://shopforever.pk/wp-content/uploads/2021/11/0c3b1da246c23c26483ca8177307cbb1.jpg"
+
+    },
+
+    
+    {
+        "id" : 8,
+        "p_name" : "Pastel Gel Pen",
+        "p_price" : "$4.30",
+        "p_descript" : "A set of smooth-flowing pastel gel pens with vibrant colors, ideal for journaling, note-taking, and art.",
+        "p_image" : "https://m.media-amazon.com/images/I/715VWJNfizL._AC_UF1000,1000_QL80_.jpg"
 
     }
 
+    
 ]
