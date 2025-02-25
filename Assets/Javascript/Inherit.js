@@ -21,7 +21,7 @@ class B extends A{
     }
 
     display(){
-        document.write(`Hello, from child class <br> ${this.name}`)
+        document.write(`Hello, from child class <br>`)
     }
 }
 
