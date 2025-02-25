@@ -20,7 +20,7 @@ $(document).ready(function(){
 
     $("#email").keyup(function(){
         let email = $(this).val();
-        let emailregex = /^[a-z\d\_\-]{8,}[@][a-z]{5}[.][a-z]{3}$/
+        let emailregex = /^[a-z\d\_\-]{8,}[@][a-z]{5}[.][a-z]{3}$/;
 
         if(!emailregex.test(email)){
             $(this).next("span").show().text("Please enter a valid email").css("color", "red");
@@ -35,7 +35,7 @@ $(document).ready(function(){
 
     $("#pass").keyup(function(){
         let pass = $(this).val();
-        let passregex = /^(?=.*[A-Z])(?=.*[a-z])(?=.*\d)(?=.*[@#$%^&*])[Aa-zZ\d\@#$%^&*!]{8}$/
+        let passregex = /^(?=.*[A-Z])(?=.*[a-z])(?=.*\d)(?=.*[@#$%^&*])[Aa-zZ\d\@#$%^&*!]{8}$/;
 
         if(!passregex.test(pass)){
             $(this).next("span").show().text("Please enter a correct password").css("color", "red");

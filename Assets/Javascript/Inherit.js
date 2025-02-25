@@ -8,7 +8,7 @@ class A {
       
     message(myemail){
         this.name = myemail
-        document.write(`Hello, from parent class <br> ${this.name} ${this.email} <br>`)
+        document.write(`Hello, from parent class <br> ${this.name} <br>`)
     }
 }
 
