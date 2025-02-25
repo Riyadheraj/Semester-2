@@ -7,8 +7,8 @@ class A {
   
       
     message(myemail){
-        this.name = myemail
-        document.write(`Hello, from parent class <br> ${this.name} ${this.email} <br>`)
+        this.email = myemail
+        document.write(`Hello, from parent class <br> ${this.name} <br> ${this.email} <br>`)
     }
 }
 
@@ -21,7 +21,7 @@ class B extends A{
     }
 
     display(){
-        document.write(`Hello, from child class <br> ${this.name}`)
+        document.write(`Hello, from child class <br>`)
     }
 }
 
