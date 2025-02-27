@@ -3,7 +3,7 @@ class A{
     //     document.write("This is constructor method from parent <br>")
     // }
 
-    display(){
+    display(num1, num2){
         let num1 = +prompt("enter first value");
         let num2 = +prompt("enter second value");
 
