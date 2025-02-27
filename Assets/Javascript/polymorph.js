@@ -3,7 +3,10 @@ class A{
     //     document.write("This is constructor method from parent <br>")
     // }
 
-    display(num1, num2){
+    display(){
+        let num1 = +prompt("enter first value");
+        let num2 = +prompt("enter second value");
+
         this.num1 = num1;
         this.num2 = num2;
 
@@ -17,8 +20,11 @@ class B extends A{
     //     document.write(`This is constructor method from child <br> ${this.num1} * ${this.num2}`)
     // }
 
-    display(num1, num2){
-        super.display(12,5);
+    display(){
+        let num1 = +prompt("enter first value");
+        let num2 = +prompt("enter second value");
+
+        super.display();
         this.num1 = num1;
         this.num2 = num2;        
         document.write(this.num1 + this.num2)
@@ -26,6 +32,6 @@ class B extends A{
 }
 
 let obj = new B();
-obj.display(22,18);
+obj.display();
 
 
