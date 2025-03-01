@@ -19,7 +19,7 @@ class B extends A{
         this.num3 = num1;
         this.num4 = num2;
 
-        document.write(this.num1 * this.num2, "<br>")
+        document.write(this.num1 + this.num2, "<br>")
     }
     
 }
